@@ -8,7 +8,7 @@ Previus step for run the projects:
 * git clone https://github.com/drgogeta/-Graphic-Schema-Theory.git
 * cd -Graphic-Schema-Theory
 * npm i
-* node <name-file-activity>
+* node **name-file-activity**
 
 In the project exits 2 files:
 
