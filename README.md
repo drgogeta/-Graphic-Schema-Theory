@@ -12,5 +12,5 @@ Previus step for run the projects:
 
 In the project exits 2 files:
 
-* The firs files have the solution the distance [work](https://github.com/drgogeta/-Graphic-Schema-Theory/blob/master/distance.js).
-* The second file have the solution practice [work](https://github.com/drgogeta/-Graphic-Schema-Theory/blob/master/distance.js).
+* The firs files have the solution the distance [work](https://github.com/drgogeta/-Graphic-Schema-Theory/blob/master/src/distance.js).
+* The second file have the solution practice [work](https://github.com/drgogeta/-Graphic-Schema-Theory/blob/master/src/distance.js).
